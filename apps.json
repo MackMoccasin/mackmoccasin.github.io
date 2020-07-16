@@ -1,1 +1,28 @@
-
+{
+    "name": "MackMoccasin",
+    "identifier": "com.mackmoccasin.source",
+    "apps": [
+        {
+            "name": "Bloons TD 6",
+            "bundleIdentifier": "com.ninjakiwi.bloonstd6",
+            "developerName": "Ninja Kiwi",
+            "subtitle": "Mega Popular Tower Defense",
+            "version": "19.0",
+            "versionDate": "2020-07-08T23:47:53Z",
+            "versionDescription": "The Adventure Begins!\n- All new Odyssey Mode links maps together in epic challenges with big Trophy rewards\n- Trophy Store! Use your Trophies from Odysseys and Races to get awesomer cosmetics for Monkeys, Bloons, Co-op, and more!\n- The intoxicatingly fun new beginner map Lotus Island\n- Tentacular goodness with the new Striker skin - Octojones\n- Lots of bug fixes and balance changes",
+            "downloadURL": "https://mega.nz/file/jhpl1CZA#fuHspjIysUIlT31fasCeRV1j9Mcp280U-9B8s1wANNA",
+            "localizedDescription": "Smash Hit Tower Defense Game\nThe Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.\n\nCraft your perfect defense from a combination of awesome monkey towers, upgrades, Heroes, and activated abilities, then pop every last Bloon that comes your way! \n\nBRILLIANT 3D BLOONS TD\n* Vibrant new monkey animations and upgrade skins\n* Intense visual effects \n* 46 original maps, some with 3D objects that can block line of sight\n\nEPIC MONKEY TOWER UPGRADES\n* 21 powerful monkey towers, including new BTD6 towers Druid and Alchemist and recently added Mortar Monkey and Engineer Monkey\n* 3 upgrade paths - all monkey towers now have 3 amazing paths to choose between\n* Tier 5 upgrades - top upgrades so powerful only one monkey can have them\n\nHEROES!\n* Each game, place one of these 10 unique and powerful monkeys with 20 signature upgrades\n* Two bloon-shredding activated abilities per Hero\n* Craft new gameplay strategies around each Hero's powers and synergies\n* Unlockable skins and voiceovers to customize your play\n\nDEEP MONKEY KNOWLEDGE SYSTEM\n* Over 100 meta-upgrades that buff individual monkey towers or monkey groups\n* Adds late game power so you can win more maps and reach higher freeplay rounds\n\nMORE AWESOMENESS\n* Play anywhere - single player offline works even when your wifi doesn't!\n* New Bloons - tricky new Bloon types like Purple, Fortified, and the relentless B.A.D.\n* New game modes added to each game difficulty, like Restricted Monkeys, Double Health MOABs, and the brutal CHIMPS rules\n* Widescreen support for iPhone X\n\nAnd there's heaps more! We packed as much content and polish into this game as possible, and we continue to add new features, content, and challenges in regular updates. We truly respect your time and support, and we hope Bloons TD 6 will be the best strategy game you've ever played. If it's not, please contact us at support@ninjakiwi.com and tell us what we can do better!\n\nNow those bloons aren't going to pop themselves... sharpen your darts and go play Bloons TD 6!\n\n**********\nBest experienced on iPhone 8 or above, or on iPad 5th generation or above\n\nNinja Kiwi Notes: \nPlease review our Terms of Service and Privacy Policy. You will be prompted in-game to accept these terms in order to cloud save and protect your game progress:\nhttps://ninjakiwi.com/terms\nhttps://ninjakiwi.com/privacy_policy\n\nBloons TD 6 contains in-game items can be purchased with real money. You can disable in-app purchases in your device's settings, or reach us at support@ninjakiwi.com for help. Your purchases fund our development updates and new games, and we sincerely appreciate every vote of confidence you give us with your purchases. \n\nNinja Kiwi Community:\nWe love hearing from our players, so please get in touch with any feedback, positive or negative, at support@ninjakiwi.com. If it's stuff you want the whole community to see and talk about, then join us on Facebook, Twitter, and Instagram:\nhttps://www.facebook.com/ninjakiwigames/\nhttps://twitter.com/ninjakiwigames\nhttps://www.instagram.com/realninjakiwi/\n\nStreamers and Video Creators:\nNinja Kiwi is actively promoting channel creators on YouTube and Twitch. If you are not already working with us, keep making videos and tell us about your channel at youtube@ninjakiwi.com.",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/2f/d5/8e/2fd58ee0-3970-7075-86ad-d7fcd90bd864/source/512x512bb.jpg",
+            "tintColor": "33738D",
+            "size": 120564736,
+            "screenshotURLs": [
+                "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/49/b7/83/49b783de-be28-bd38-8137-8e415b4eb36f/mzl.wlshxycc.png/406x228bb.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/74/82/1c748268-ca29-7c31-5ae7-eba89be62e91/mzl.hmitzviv.png/406x228bb.png",
+                "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/8e/89/94/8e8994f1-49cd-b9d1-4447-f0fbf6da7c37/mzl.lfikxnmz.png/406x228bb.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/66/50/61665086-107e-1f67-4620-013ee0cfcb45/mzl.evuovbdy.png/406x228bb.png",
+                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/94/d0/72/94d0723c-231b-6cb8-0d49-d9c71a6887cb/mzl.aegcvjxr.png/406x228bb.png"
+            ]
+        }
+    ],
+    "userInfo": {}
+}
